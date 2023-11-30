@@ -149,3 +149,139 @@ git merge fb2
 vi abc
 cat abc
 vi abc
+git 
+git config --list
+git push -u origin main
+echo "# demo2" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/kpdevops123/demo2.git
+  git push -u origin main
+git status
+git branch
+git add .
+git commit -m "efeds"
+git status
+git remote add origin https://github.com/kpdevops123/demo2.git
+git remote set-url origin https://github.com/kpdevops123/demo2.git
+git remote add origin https://github.com/kpdevops123/demo2.git
+git config --list
+git push
+git push -u origin main
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=3600'  # Cache for 1 hour
+git clone https://github.com/kpdevops123/demo2.git
+l s-ltr
+ls -ltr
+git push -u origin main
+cd demo2
+ls -ltr
+echo "# demo2" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/kpdevops123/demo2.git
+  git push -u origin main
+git remote -v
+git push origin main
+git config --global credential.helper manager-core
+git push origin main
+sudo apt-get install git-credential-store  # For Debian/Ubuntu
+git credential-manager-core list
+sudo yum install git-credential-store
+git config -l
+git config --global user.name "kpdevops123"
+git config --global user.gmail "kpdevops.nov18@gmail.com"
+git config -l
+git clone https://github.com/kpdevops123/demo1.git
+git clone https://github.com/kpdevops123/demo2.git
+mkdir 123
+cd 123
+ls -ltr
+git clone https://github.com/kpdevops123/demo2.git
+ls -ltr
+git config --global credential.helper cache
+git pull -v
+cd demo2
+ls -ltr
+touch 123
+git add .
+git commit -m "1232"
+git push -u origin main
+git config --list
+git remote set-url origin https://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@github.com/kpdevops123/demo2
+ls -ltr
+gut status
+git status
+git add .
+git commit -m "2343"
+git push -u origin main
+git int
+echo "# nov29" >> README.md
+ls -ltr
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git branch
+git remote add origin https://github.com/kpdevops123/nov29.git
+git git remote -v
+git remote -v
+git remote add https://github.com/kpdevops123/nov29.git
+git remote set url origin https://github.com/kpdevops123/nov29.git
+git remote set-url origin https://github.com/kpdevops123/nov29.git
+git remote -v
+git push -u origin main
+git remote set-url origin https://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@github.com/kpdevops123/nov29
+git remote -v
+git push -u origin main
+git status
+touch remote.txt
+vi remote.txt 
+cat remote.txt 
+git add remote.txt 
+git commit -m "pusing to remote repo"
+git push origin main
+l s-0ltr
+ls -ltr
+git pull
+cat remote.txt 
+git fetch
+cat remote.txt 
+git merge main
+l s-ltr
+ls -ltr
+cat remote.txt 
+git merge origin/main
+cat remote.txt 
+git branch nov29-fb1
+git branch
+git checkout nov29-fb1
+git branch
+ls -ltr
+touch fb1.txt
+vi fb1.txt
+cat fb1.txt 
+git add fb1.txt 
+git commit -m "pushing fb1.txt file"
+git push 
+git push origin nov29-fb1
+ls -ltr
+git branch
+git checkout main
+git merge origin nov29-fb1
+git merge 
+git merge nov29-fb1
+git branch
+ls -ltr
+git add fb1.txt 
+git commit -m "adding fb1 data"
+git push
+ls -ltr
+ls -ltr
+git branch
+git pull
+ls -ltr
